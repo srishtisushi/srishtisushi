@@ -6,7 +6,7 @@
 - 📫 How to reach me: srajeev@arizona.edu
 - 😄 Pronouns: she/her (also very/tired)
 
-![](https://komarev.com/ghpvc/?username=srishtisushi&style=flat-square&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=srishtisushi&style=for-the-badge&color=ff69b4)
 
 
 
