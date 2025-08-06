@@ -1,7 +1,7 @@
 # 👋 Hello there!:
 I’m Srishti Rajeev (nickname is Sushi). Currently studying bioinformatics, info sci/data sci, psychology, and MCB at the University of Arizona. <br><br>Catch me playing badminton🏸,  yapping on substack📝, hiking when it is not 982798728972 degrees out⛰️, and fostering kittens🐱!<br><br>Currently learning ML, bioinformatics pipelines, computational neuro, and more > : )<br><br>📫 How to reach me: srajeev@arizona.edu or srishtiraj4444@gmail.com
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=ff69b4&abbreviated=true) 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=ff69b4) 
 
 
 ## 🌐 Socials:
