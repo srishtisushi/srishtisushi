@@ -6,8 +6,7 @@
 - 📫 How to reach me: srajeev@arizona.edu
 - 😄 Pronouns: she/her (also very/tired)
 
-I walked into a street sign head-on the first day of school.
-
+![](https://komarev.com/ghpvc/?username=srishtisushi&style=flat-square&color=ff69b4)
 
 
 
